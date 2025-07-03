@@ -62,5 +62,5 @@ You can modify the number of hidden layers, neurons per layer, learning rate, an
 ---
 
 ## Results 
-Achieves **~89–91% test accuracy** on MNIST
+Achieves **~93% test accuracy** on MNIST
 
